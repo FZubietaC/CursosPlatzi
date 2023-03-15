@@ -253,7 +253,7 @@
         object-fit: cover;
     }
     .product-info{
-        display: flex;
+        display: grid;
         justify-content: space-between;
         align-items: center;
         margin-top: 12px;          
