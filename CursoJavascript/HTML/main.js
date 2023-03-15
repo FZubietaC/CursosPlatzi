@@ -85,7 +85,7 @@ for (product of ProductList){
     
     const productname = document.createElement('p');
     productname.innerText = product.name;
-
+    /*Revisar encapsulamiento*/
     productinfoDiv.appendChild(productprice);
     productinfoDiv.appendChild(productname);
     
